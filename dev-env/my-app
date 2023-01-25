@@ -1,0 +1,3 @@
+writing code using golang and python
+pushing and hosting the code on a remote repo(github)so that other developers access and contribute 
+containerization of the dev-code with all its dependencies using docker,so that it can run on every developers local computer
