@@ -1,3 +1,6 @@
 writing code using golang and python
 pushing and hosting the code on a remote repo(github)so that other developers access and contribute 
 containerization of the dev-code with all its dependencies using docker,so that it can run on every developers local computer
+to make use of docker you need the docker runtime installed on ur local computer
+for you to create a docker image which can be downloaded or sent you need to build the docker image using a docker file
+when the pull the image from a repo like docker hub and run it on ur computer it then becomes a container.
